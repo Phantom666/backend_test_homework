@@ -7,4 +7,4 @@ class Hello:
         self.x = x
 
 # Вывод на экран словаря __annotations__ из области видимости класса Hello
-print(Hello.__annotations__)
+print(                 Hello.__annotations__)
